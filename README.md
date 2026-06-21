@@ -127,4 +127,4 @@ TP3-AI-Agents-langchain-langGraph/
 
 ## 👤 Auteur
 
-**Chirah Mohammed** — TP3, Agentic AI (II-BDCC, S3)
+**EDDEBBARHI SAMIR** — TP3, Agentic AI (II-BDCC, S3)
